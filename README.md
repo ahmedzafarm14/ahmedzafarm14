@@ -1,21 +1,14 @@
-# Ahmed Zafar
+# Updated README for ahmedzafarm14
 
-## Associate Software Engineer at DevSorb
+## Projects
 
-### Tech Stack
-- JavaScript
-- TypeScript
-- Node.js
-- React.js
-- Python
-- Django
+### Desktop Crawler
+A PDF crawler utilizing a Retrieval-Augmented Generation (RAG) based Language Learning Model (LLM) to extract and process information from PDF documents efficiently. This project enhances the data retrieval process and improves user interaction with complex datasets.
 
-### Featured Projects
-- **HostelHub**: A platform that allows students to find and book accommodations easily.
-- **Fixonway**: A solution for digital logistics management aimed at optimizing route planning and tracking.
-- **Desktop Crawler**: A tool for automated data scraping from the web.
-- **WriteItUp**: A collaborative writing platform designed for writers to craft and edit documents together.
+### WriteItUp
+An AI-driven system that transforms YouTube videos into comprehensive blog posts, allowing content creators to easily repurpose their video content into written format. This tool analyzes video content, extracts key information, and generates well-structured articles for a wider audience.
 
-### Contact
+## Contact
+For inquiries or collaborations:
 - Email: [ahmedzafarm14@gmail.com](mailto:ahmedzafarm14@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/ahmedzafar427](https://www.linkedin.com/in/ahmedzafar427)
+- LinkedIn: [ahmedzafar427](https://www.linkedin.com/in/ahmedzafar427)
