@@ -1,30 +1,81 @@
-# About Me
+# Hi there! 👋
 
-Hello! I'm Ahmed Zafar, a passionate developer with a love for coding and technology. I enjoy building applications that solve real-world problems and exploring new technologies.
+I'm **Ahmed Zafar**, an **Associate Software Engineer** at **DevSorb**, passionate about building full-stack web applications and contributing to the developer community.
 
-# Tech Stack
+## 🚀 About Me
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, AWS
+- 🏢 **Currently:** Associate Software Engineer at DevSorb
+- 🔭 Building scalable web applications using modern tech stacks
+- 🌱 Continuously learning and exploring new technologies
+- 💬 Open to collaborations on interesting projects
+- ⚡ Love solving complex problems through clean, efficient code
 
-# GitHub Stats
+## 💻 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedzafarm14&show_icons=true&theme=radical)
+### Languages
+- **JavaScript/TypeScript**
+- **Python**
+- **HTML/CSS**
 
-# Featured Projects
+### Frontend
+- **React.js** - UI component development
+- **Redux** - State management
+- **Tailwind CSS** - Responsive styling
+- **Material-UI (MUI)** - Component library
 
-1. **HostelHub**: A platform to book hostel accommodations with ease, providing options for users to filter based on location, price, and amenities.
-2. **Fixonway**: An application allowing users to find solutions to their mechanical problems, connecting them with local experts.
-3. **Desktop Crawler with RAG+LLM**: An advanced desktop crawler utilizing retrieval-augmented generation (RAG) and large language models (LLM) for data extraction and analysis.
-4. **WriteItUp with YouTube-to-blog AI**: A tool transforming YouTube videos into comprehensive blog posts, aided by AI content generation.
+### Backend
+- **Node.js** - Server-side runtime
+- **Express.js** - Web framework
+- **Django** - Python web framework
+- **MongoDB** - NoSQL database
+- **JWT** - Authentication
 
-# Contact Information
+## 📊 GitHub Stats
 
-- Email: [ahmedzafarm14@gmail.com](mailto:ahmedzafarm14@gmail.com)
-- LinkedIn: [ahmedzafar427](https://www.linkedin.com/in/ahmedzafar427)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedzafarm14&show_icons=true&theme=radical)
 
-# Current Working On
+## 🎯 Featured Projects
 
-Currently focused on enhancing my skills in AI and machine learning applications, with ongoing projects as of **last updated: 2026-02-24**.
+### 🏨 [HostelHub](https://github.com/ahmedzafarm14/hh-frontend)
+A comprehensive hostel marketplace platform built with the MERN stack. Features include user authentication, hostel search, booking management, and review systems connecting travelers with hosts globally.
+
+**Tech:** React.js, Node.js, Express, MongoDB, Redux, Tailwind CSS
+
+### 🔧 [Fixonway](https://github.com/ahmedzafarm14/fixonway-backend)
+A service request platform connecting customers with service providers. Built with full-stack JavaScript for efficient and responsive user experience.
+
+**Tech:** JavaScript, Node.js, React.js, MongoDB
+
+### 🖥️ [Desktop Crawler](https://github.com/ahmedzafarm14/Destktop-Crawler)
+A Python-based system that crawls PDFs from your desktop and uses LLM with RAG (Retrieval-Augmented Generation) to intelligently extract and answer questions about document content.
+
+**Tech:** Python, LLM, RAG, PDF Processing
+
+### 📝 [WriteItUp](https://github.com/ahmedzafarm14/writeitup)
+An AI-powered content generation system that converts YouTube videos into blog posts by extracting audio, transcribing to text, and using LLM to generate comprehensive articles.
+
+**Tech:** JavaScript, React.js, Node.js, AI/LLM, YouTube API
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects and connecting with fellow developers!
+
+- **Email:** ahmedzafarm14@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ahmedzafar427
+
+## 📈 What I'm Currently Working On
+
+- Expanding my expertise in full-stack development
+- Contributing to open-source projects
+- Exploring advanced TypeScript patterns
+- Building scalable backend systems
+
+---
+
+<div align="center">
+
+**Let's build something amazing together! Feel free to explore my repositories and reach out for collaborations.** 🚀
+
+*Last updated: 2026-02-24*
+
+</div>
