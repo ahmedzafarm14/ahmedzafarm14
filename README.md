@@ -1,30 +1,81 @@
-# About Me
+# Hi there! 👋
 
-Hello! I'm Ahmed Zafar, a passionate software developer with a keen interest in building scalable applications and exploring new technologies. I love coding and continuously improving my skills.
+I'm **Ahmed Zafar**, an **Associate Software Engineer** at **DevSorb**, passionate about building full-stack web applications and contributing to the developer community.
 
-## Tech Stack
+## 🚀 About Me
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** Node.js, React, Express
-- **Databases:** MongoDB, PostgreSQL
-- **Tools:** Git, Docker, Jenkins, VS Code
+- 🏢 **Currently:** Associate Software Engineer at DevSorb
+- 🔭 Building scalable web applications using modern tech stacks
+- 🌱 Continuously learning and exploring new technologies
+- 💬 Open to collaborations on interesting projects
+- ⚡ Love solving complex problems through clean, efficient code
 
-## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedzafarm14&show_icons=true&hide_title=true)
+## 💻 Tech Stack
 
-## Featured Projects
+### Languages
+- **JavaScript/TypeScript**
+- **Python**
+- **HTML/CSS**
 
-### Desktop Crawler
-A desktop application that scrapes data from various websites and organizes it into a structured format. It includes features like multi-threaded crawling, customizable scraping rules, and a user-friendly interface.
+### Frontend
+- **React.js** - UI component development
+- **Redux** - State management
+- **Tailwind CSS** - Responsive styling
+- **Material-UI (MUI)** - Component library
 
-### WriteItUp
-An application designed for writers, featuring a clean and intuitive interface for drafting and editing documents. It supports cloud saving, collaboration, and export options to various file formats.
+### Backend
+- **Node.js** - Server-side runtime
+- **Express.js** - Web framework
+- **Django** - Python web framework
+- **MongoDB** - NoSQL database
+- **JWT** - Authentication
 
-## Contact Information
+## 📊 GitHub Stats
 
-- **Email:** [ahmedzafarm14@gmail.com](mailto:ahmedzafarm14@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmedzafar427) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedzafarm14&show_icons=true&theme=radical)
+
+## 🎯 Featured Projects
+
+### 🏨 [HostelHub](https://github.com/ahmedzafarm14/hh-frontend)
+A comprehensive hostel marketplace platform built with the MERN stack. Features include user authentication, hostel search, booking management, and review systems connecting travelers with hosts globally.
+
+**Tech:** React.js, Node.js, Express, MongoDB, Redux, Tailwind CSS
+
+### 🔧 [Fixonway](https://github.com/ahmedzafarm14/fixonway-backend)
+A service request platform connecting customers with service providers. Built with full-stack JavaScript for efficient and responsive user experience.
+
+**Tech:** JavaScript, Node.js, React.js, MongoDB
+
+### 🖥️ [Desktop Crawler](https://github.com/ahmedzafarm14/Destktop-Crawler)
+A Python-based system that crawls PDFs from your desktop and uses LLM with RAG (Retrieval-Augmented Generation) to intelligently extract and answer questions about document content.
+
+**Tech:** Python, LLM, RAG, PDF Processing
+
+### 📝 [WriteItUp](https://github.com/ahmedzafarm14/writeitup)
+An AI-powered content generation system that converts YouTube videos into blog posts by extracting audio, transcribing to text, and using LLM to generate comprehensive articles.
+
+**Tech:** JavaScript, React.js, Node.js, AI/LLM, YouTube API
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects and connecting with fellow developers!
+
+- **Email:** ahmedzafarm14@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ahmedzafar427
+
+## 📈 What I'm Currently Working On
+
+- Expanding my expertise in full-stack development
+- Contributing to open-source projects
+- Exploring advanced TypeScript patterns
+- Building scalable backend systems
 
 ---
 
-This README was last updated on 2026-02-24 14:18:23 UTC.
+<div align="center">
+
+**Let's build something amazing together! Feel free to explore my repositories and reach out for collaborations.** 🚀
+
+*Last updated: 2026-02-24*
+
+</div>
