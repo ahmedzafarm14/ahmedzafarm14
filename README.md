@@ -28,7 +28,14 @@ I'm **Ahmed Zafar**, an **Associate Software Engineer** at **DevSorb**, passiona
 - **Express.js** - Web framework
 - **Django** - Python web framework
 - **MongoDB** - NoSQL database
+- **MySQL** - SQL database
 - **JWT** - Authentication
+
+### Tools
+- **Docker**
+- **CI/CD**
+- **Github Actions**
+- **Github**
 
 ## 📊 GitHub Stats
 
@@ -54,7 +61,7 @@ A Python-based system that crawls PDFs from your desktop and uses LLM with RAG (
 ### 📝 [WriteItUp](https://github.com/ahmedzafarm14/writeitup)
 An AI-powered content generation system that converts YouTube videos into blog posts by extracting audio, transcribing to text, and using LLM to generate comprehensive articles.
 
-**Tech:** JavaScript, React.js, Node.js, AI/LLM, YouTube API
+**Tech:** JavaScript, React.js, Node.js, gpt3.5
 
 ## 🤝 Let's Connect
 
