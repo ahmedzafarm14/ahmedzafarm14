@@ -1,14 +1,30 @@
-# Updated README for ahmedzafarm14
+# About Me
 
-## Projects
+Hello! I'm Ahmed Zafar, a passionate software developer with a keen interest in building scalable applications and exploring new technologies. I love coding and continuously improving my skills.
+
+## Tech Stack
+
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** Node.js, React, Express
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Jenkins, VS Code
+
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedzafarm14&show_icons=true&hide_title=true)
+
+## Featured Projects
 
 ### Desktop Crawler
-A PDF crawler utilizing a Retrieval-Augmented Generation (RAG) based Language Learning Model (LLM) to extract and process information from PDF documents efficiently. This project enhances the data retrieval process and improves user interaction with complex datasets.
+A desktop application that scrapes data from various websites and organizes it into a structured format. It includes features like multi-threaded crawling, customizable scraping rules, and a user-friendly interface.
 
 ### WriteItUp
-An AI-driven system that transforms YouTube videos into comprehensive blog posts, allowing content creators to easily repurpose their video content into written format. This tool analyzes video content, extracts key information, and generates well-structured articles for a wider audience.
+An application designed for writers, featuring a clean and intuitive interface for drafting and editing documents. It supports cloud saving, collaboration, and export options to various file formats.
 
-## Contact
-For inquiries or collaborations:
-- Email: [ahmedzafarm14@gmail.com](mailto:ahmedzafarm14@gmail.com)
-- LinkedIn: [ahmedzafar427](https://www.linkedin.com/in/ahmedzafar427)
+## Contact Information
+
+- **Email:** [ahmedzafarm14@gmail.com](mailto:ahmedzafarm14@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmedzafar427) 
+
+---
+
+This README was last updated on 2026-02-24 14:18:23 UTC.
